@@ -1,7 +1,7 @@
 ### Hi there <a href="https://github.com/rokiprasetyoadi"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 - 🔭 &nbsp;I’m currently working as Freelance Web Developer
-- 🌱 &nbsp;I’m currently learning Laravel 10 & Javascript
+- 🌱 &nbsp;I’m currently learning Javascript
 
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,laravel,bootstrap,github,mysql)](https://skills.thijs.gg)
