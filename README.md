@@ -8,7 +8,7 @@
 
 ### ✨&nbsp; About Me
 
-I am a Web Developer / Back End Developer / IT Support with 2+ years of experience in developing applications and project. I love to work w team / individualy.
+I am a Web Developer / Back End Developer / IT Support. I like to work w team / individualy. Love to learn and work on project ♥
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
